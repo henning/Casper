@@ -1,0 +1,15 @@
+nav {
+    text-rendering: optimizeLegibility;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.headnav {
+    font-size: 0.8em;
+    display: table-caption;
+}
+
+#site-head {
+    height: 50%;
+}
